@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url(semillas) center top;
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+}
+.cafe{
+	height: 10%;
+	background-color: #F69133;
+	background: url(k) no-repeat
+	clear:both;
+	position: relative;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	text-align: center;
+}
+.caja1{
+	height: 80%;
+	width: 60%;
+	background-color: beige;
+	position: flex;
+	left: 25%;
+	top: 69%;
+	margin-left: 19%;
